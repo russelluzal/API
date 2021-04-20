@@ -1,1 +1,5 @@
-export const BASE_URL = 'https://nazarov-kanban-server.herokuapp.com';
+const BASE_URL = 'https://nazarov-kanban-server.herokuapp.com'
+
+module.exports = {
+    BASE_URL
+}
